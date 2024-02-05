@@ -1,0 +1,12 @@
+@import "../../vars.css";
+
+.footer{   
+    color: var(--color-text); 
+    background-color: #000;
+    padding: 10px;
+    text-align: center;
+    /* Sticky Footer Styles */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }

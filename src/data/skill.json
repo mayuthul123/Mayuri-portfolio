@@ -1,0 +1,34 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skill/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skill/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skill/react.png"
+    }, 
+    {
+      "title": "Javascript",
+      "imageSrc": "skill/javascript.png"
+    },  
+    {
+      "title": "Bootstrap",
+      "imageSrc": "skill/bootstrap.png"
+    },    
+    {
+      "title": "SCSS",
+      "imageSrc": "skill/scss.png"
+    }, 
+    {
+      "title": "typescript",
+      "imageSrc": "skill/typescript.png"
+    }, 
+    {
+      "title": "Figma",
+      "imageSrc": "skill/figma.png"
+    }
+  ]

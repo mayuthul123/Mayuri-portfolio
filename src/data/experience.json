@@ -1,0 +1,64 @@
+[
+    {
+      "role": "Delivery Module Lead",
+      "organisation": "Mphasis",
+      "startDate": "December 2023 ",
+      "endDate": "Present",
+      "experiences": ["Worked closely on international flight journey for Akasa air." ,
+                      "Used the applications like react, JSX, Rest API’s, Typescript" ,
+                      "Resolved the jira bugs on international and domestic operations.",
+                      "Worked on AWS and CMS configuration ",
+                      "Project url: https://www.akasaair.com/ "
+                    ],
+      "imageSrc": "project/mphasis.png"
+    },
+    {
+      "role": "Sr. Frontend Developer and Lead",
+      "organisation": "The McCann Worldgroup",
+      "startDate": "July, 2017",
+      "endDate": "December, 2022",
+      "experiences": ["Developed and maintained the frontend of 'Staples.com'", 
+                      "As the key contributor to the frontend development of Staples.com, I played a vital role in shaping a seamless and responsive user experience for one of the leading e-commerce platforms. By implementing AJAX for dynamic content loading, I significantly enhanced the application's responsiveness",
+                      "Worked on developing product display sliders , informative tabs",
+                      "Project url: https://www.staples.com/"
+                     ],
+      "imageSrc": "project/mccann.png"
+    },
+    {
+      "role": "Sr. Frontend Developer",
+      "organisation": "Ambab InfoTech Pvt. Ltd",
+      "startDate": " November 2014",
+      "endDate": "July 2017",
+      "experiences": [
+        "Proactively monitor and analyse web performance metrics. Implemented optimizations to enhance the speed and efficiency of web applications.",
+        "Proficient in crafting clean and semantic HTML5 markup. Well-versed in advanced CSS3 techniques for modern styling, animations, and transitions.",
+      " Implemented the functionality and design of the add-to-cart page, focusing on a smooth user interaction. Specialized in using Reactive Forms for handling and validating complex forms."
+      ],
+      "imageSrc": "project/ambab.png"
+    },
+    {
+      "role": "Sr. Web Developer",
+      "organisation": "Indigo Consulting Pvt. Ltd",
+      "startDate": "Febuary 2012",
+      "endDate": " October 2014",
+      "experiences": [
+        " Worked on IDFC Mutual funds (Infrastructure Development Finance Company), http://www.idfcmf.com/ on site and CMS support.",
+        "Worked on MLI (Max Life Insurance), http://www.maxlifeinsurance.com/ on site and CMS (Content Management System) support.",
+        "Worked SIP Calculator of IDFC Mutual funds mobile site"
+      ],
+      "imageSrc": "project/indigo.png"
+    },
+    {
+      "role": "CMS and Web Developer",
+      "organisation": "Kush Info systems Pvt. Ltd",
+      "startDate": "October 2010",
+      "endDate": "Febuary 2012",
+      "experiences": [
+       "Converted Photoshop image into static HTML pages. Implementing PHP code to implement Contact modal form.", 
+       "Implemented SSI (Server Side Include) SIFR implementation using Cufon or Font face. Using Table-less or Table construct to build the website with Assurance of all browser compatibility including IE6. Tested on Windows and Mac OS",
+       "Developed E-mailers using table structure compatible to following clients Gmail, Yahoo mail, Hotmail, Yahoo mail classic, Microsoft outlook express.",
+       "Word press theme development with plug-in implementation and many more."
+      ],
+      "imageSrc": "project/kipl.png"
+    }
+  ]
