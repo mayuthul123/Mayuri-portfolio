@@ -63,8 +63,11 @@
   .container {
     flex-direction: column;
     gap: 23px;
+    background-color: transparent;
+    margin: 2%;
+    padding: 2%;
   }
-
+.contactCon { flex-direction: column;}
   .text {
     display: flex;
     flex-direction: column;

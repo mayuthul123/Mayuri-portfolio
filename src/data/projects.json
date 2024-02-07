@@ -1,33 +1,33 @@
 [
     {
       "title": "QR code generator (Porgressive Web App)",
-      "imageSrc": "project/project.png",
+      "imageSrc": "project/qrCode.png",
       "description": " In this application you can enter employee code and genreate a QR code, you can download and save this app on you device and run without internet connection ",
-      "skills": ["React", "Service Workers"],
-      "demo": "https://www.example.com",
+      "skills": ["React", "Service Workers","react bootstrap","progressive web app"],
+      "demo": "https://g-qrcode.netlify.app/",
       "source": "https://github.com/mayuthul123/QR-with-json"
     },
     {
       "title": "Weather App",
-      "imageSrc": "project/project.png",
+      "imageSrc": "project/weatherapp.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Sass"],
-      "demo": "https://www.example.com",
+      "skills": ["React", "context API", "react bootstrap"],
+      "demo": "/weather",
       "source": "https://www.github.com"
-    },
-    {
-      "title": "XOXO Game",
-      "imageSrc": "project/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
+    }, 
     {
       "title": "Aditya Birla Health Calculator",
       "imageSrc": "project/phc_adityabirla.png",
       "description": "This application was developed by me for the adityabirla employes to calculate their heath data and assign health program depends on the count ",
       "skills": ["React", "context API"],
+      "demo": "https://www.adityabirlacapital.com/multiply-wellness/phc/",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "my Portfolio site",
+      "imageSrc": "project/Ownportfolio.png",
+      "description": "This website is made to showcase my Abilities and Work. ",
+      "skills": ["React", "vite", "react bootstrap"],
       "demo": "https://www.adityabirlacapital.com/multiply-wellness/phc/",
       "source": "https://www.github.com"
     }

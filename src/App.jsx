@@ -9,6 +9,7 @@ import Project from './components/Project/Project';
 import Contact from "./components/Contact/Contact";
 import Experience from './components/Experience/Experience';
 import Footer from './components/Footer/Footer';
+import Weather from './components/Weather/Weather';
 // import stylesApp from "./App.module.css";
 
 function App() { 
@@ -22,8 +23,9 @@ function App() {
           <Project/>
           <Contact/> 
           {/* <div className={stylesApp.topBlur} />*/}
-     
+          <Weather/>
         </NavBar>
+
         {/* <Footer/> */}
       </div>
     </>

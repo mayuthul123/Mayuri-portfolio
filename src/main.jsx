@@ -9,10 +9,14 @@ import "@fontsource/roboto";
 import { BrowserRouter } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+import { WeatherProvider } from './context/Weather';
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter>
-      <App />
+      <WeatherProvider>
+        <App />
+      </WeatherProvider>
     </BrowserRouter>
   </React.StrictMode>,
 )

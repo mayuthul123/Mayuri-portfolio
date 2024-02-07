@@ -12,7 +12,7 @@ function ProjectCard({
   return (
    
     <Card className={styles.cardContainer}>
-      <Image variant="top" src={getImageUrl(imageSrc)} className={styles.image} />
+      <Image variant="top" src={getImageUrl(imageSrc)} className={`${styles.image} ${styles.projectImage}`}/>
       <Card.Body className={styles.cardbody}>
         <Card.Title className={styles.title}> {title} </Card.Title>
         <Card.Text className={styles.description}>
